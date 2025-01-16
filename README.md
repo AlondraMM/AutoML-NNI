@@ -1,2 +1,2 @@
 # AutoML-NNI
-Implementación de NAS usando NII
+Implementación de NAS (Neural Architecture Search) usando NII.
